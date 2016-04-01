@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["dependency",""],["manifest",""],["package",""],["package_id",""],["registry",""],["resolver","Resolution of the entire dependency graph for a crate"],["shell",""],["source",""],["summary",""]],"struct":[["PackageIdSpec",""]]});

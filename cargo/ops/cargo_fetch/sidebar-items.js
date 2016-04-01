@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["fetch","Executes `cargo fetch`."],["get_resolved_packages",""]]});

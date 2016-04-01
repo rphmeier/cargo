@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BuildOutput","Contains the parsed output of a custom build script."]]});

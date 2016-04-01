@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CommandType",""]],"struct":[["CommandPrototype","Prototype for a command that must be executed."],["ProcessEngine","Default implementation of `ExecEngine`."]],"trait":[["ExecEngine","Trait for objects that can execute commands."]]});

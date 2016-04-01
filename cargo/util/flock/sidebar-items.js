@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FileLock",""],["Filesystem","A \"filesystem\" is intended to be a globally shared, hence locked, resource in Cargo."]]});

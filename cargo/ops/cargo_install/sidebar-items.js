@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["install",""],["install_list",""],["uninstall",""]]});

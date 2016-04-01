@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["generate_lockfile",""],["update_lockfile",""]],"struct":[["UpdateOptions",""]]});
